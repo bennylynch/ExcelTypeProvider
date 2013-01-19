@@ -1,0 +1,16 @@
+C:\Users\ben\Documents\GitHub\ExcelTypeProvider\Library1\bin\Debug\Library1.XML
+C:\Users\ben\Documents\GitHub\ExcelTypeProvider\Library1\bin\Debug\ExcelTypeProvider.dll
+C:\Users\ben\Documents\GitHub\ExcelTypeProvider\Library1\bin\Debug\ExcelTypeProvider.pdb
+C:\Users\ben\Documents\GitHub\ExcelTypeProvider\Library1\bin\Debug\FSharp.Core.dll
+C:\Users\ben\Documents\GitHub\ExcelTypeProvider\Library1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\ben\Documents\GitHub\ExcelTypeProvider\Library1\bin\Debug\office.dll
+C:\Users\ben\Documents\GitHub\ExcelTypeProvider\Library1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\ben\Documents\GitHub\ExcelTypeProvider\Library1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\ben\Documents\GitHub\ExcelTypeProvider\Library1\bin\Debug\FSharp.Core.xml
+C:\Users\ben\Documents\GitHub\ExcelTypeProvider\Library1\bin\Debug\office.xml
+C:\Users\ben\Documents\GitHub\ExcelTypeProvider\Library1\obj\Debug\ExcelTypeProvider.fsprojResolveAssemblyReference.cache
+C:\Users\ben\Documents\GitHub\ExcelTypeProvider\Library1\obj\Debug\ExcelTypeProvider.dll
+C:\Users\ben\Documents\GitHub\ExcelTypeProvider\Library1\obj\Debug\ExcelTypeProvider.pdb
+C:\Users\ben\Documents\GitHub\ExcelTypeProvider\Library1\bin\Debug\ClosedXML.dll
+C:\Users\ben\Documents\GitHub\ExcelTypeProvider\Library1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ben\Documents\GitHub\ExcelTypeProvider\Library1\bin\Debug\ClosedXML.xml
