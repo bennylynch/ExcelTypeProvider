@@ -103,6 +103,7 @@ module ExcelProvider =
         
         // add a parameterless constructor
         ty.AddMember(ProvidedConstructor([], InvokeCode = fun [] -> <@@  new ExcelFileInternal(filename) @@>))
+        ty.AddMember(ProvidedConstructor([ProvidedParameter("filename", typeof<string>)], InvokeCode = fun [filename] -> <@@  ExcelFileInternal(%%filename) @@>))
         // TK: add second ctor with filename, forcestring
         //for each worksheet (with data), add a property of provided type shtTyp
         for sht in ex.SheetAndRangeNames do
